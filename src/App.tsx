@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 import Loading from "./loading";
 const configuration = new Configuration({
   organization: originId,
-  apiKey: openapiSk,
+  apiKey: window.atob(openapiSk),
 });
 const openai = new OpenAIApi(configuration);
 
