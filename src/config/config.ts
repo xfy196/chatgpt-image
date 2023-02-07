@@ -1,3 +1,3 @@
 export const openapiSk =
-  "c2stME9QdlFoZU1ISWJsUUhwQjA1Wk5UM0JsYmtGSldHTktJTk9rUUNndjBOQmJreE9u";
+  "c2stcUlNbHUxSFhJS085dVNWY0xjTGVUM0JsYmtGSkpUYVJKSlNnT0xSQWpYSTA5dlNi";
 export const originId = "org-XsZGOal8prIyT7c84DIxOm6V";
