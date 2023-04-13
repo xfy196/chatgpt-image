@@ -1,3 +1,2 @@
-export const openapiSk =
-  "c2stcUlNbHUxSFhJS085dVNWY0xjTGVUM0JsYmtGSkpUYVJKSlNnT0xSQWpYSTA5dlNi";
+export const openapiSk = "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";
 export const originId = "org-XsZGOal8prIyT7c84DIxOm6V";
